@@ -86,6 +86,6 @@ Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICEN
 
 ## Contato
 
-Desenvolvedor Rugemtugem [rugemtugem.com.br](rugemtugem@salesprime.com.br)
+Desenvolvedor Rugemtugem [https://rugemtugem.com.br](https://rugemtugem@salesprime.com.br)
 
 Para mais informações, entre em contato com [suporte@salesprime.com.br](mailto:suporte@salesprime.com.br).
