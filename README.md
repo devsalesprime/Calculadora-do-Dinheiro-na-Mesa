@@ -55,7 +55,7 @@ A "Calculadora do Dinheiro na Mesa" é uma ferramenta projetada para ajudar empr
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/devsalesprime/calculadora-dinheiro-na-mesa.git
+   git clone https://github.com/devsalesprime/Calculadora-do-Dinheiro-na-Mesa.git
    ```
 
 1. Navegue até o diretório do projeto:
@@ -86,9 +86,6 @@ Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICEN
 
 ## Contato
 
+Desenvolvedor Rugemtugem [rugemtugem.com.br](rugemtugem@salesprime.com.br)
+
 Para mais informações, entre em contato com [suporte@salesprime.com.br](mailto:suporte@salesprime.com.br).
-
-### Notes
-
-- Adjust the contact email and GitHub repository link as necessary.
-- You can add more sections to the README as needed, such as "Features", "Future Improvements", or "Known Issues".
